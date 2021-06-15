@@ -7,8 +7,7 @@ Advik Lall
 
 ![image](https://user-images.githubusercontent.com/49658408/121971473-cca98a80-cd46-11eb-9ce6-99e2a1ca874f.png)
 
-My Email:  
-    alall@ebnet.org
+[my email](mailto:alall@ebnet.org)
 
 BRAG SHEET:
 
