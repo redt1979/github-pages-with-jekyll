@@ -3,10 +3,10 @@ author: Advik Lall
 email: alall@ebnet.org
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  This is my website, there is information 
+  This is my website, there is information about social links here
 
 # social links
 
-github_username:  your-github-handle redt1979
+github_username: redt1979
 
 show_excerpts: true # set to false to remove excerpts on the homepage
